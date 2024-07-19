@@ -1,9 +1,12 @@
-import React from 'react'
+import TableArticle from "@/components/articles/table-article";
+import React from "react";
 
 const Page = () => {
   return (
-    <div>Page</div>
-  )
-}
+    <>
+      <TableArticle />
+    </>
+  );
+};
 
-export default Page
+export default Page;

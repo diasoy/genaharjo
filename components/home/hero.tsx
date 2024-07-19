@@ -1,6 +1,5 @@
 import React from "react";
-import {montserrat} from "@/app/utils/fonts";
-import {TextGenerateEffect} from "@/app/components/text-generate-effect";
+import {TextGenerateEffect} from "@/components/text-generate-effect";
 
 
 const Hero = () => {
